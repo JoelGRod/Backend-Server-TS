@@ -8,6 +8,7 @@
     tsc --watch (live ts compilator)
     npm run dev (nodemon)
 
-# Server configuration (endpoints and app middlewares):
+# Server configuration 
+    Base endpoints and app middlewares:
     index.ts
     server/
