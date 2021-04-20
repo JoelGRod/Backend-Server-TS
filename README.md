@@ -9,6 +9,6 @@
     npm run dev (nodemon)
 
 # Server configuration 
-    Base endpoints and app middlewares:
+    Base endpoints URLs and app middlewares:
     index.ts
     server/
